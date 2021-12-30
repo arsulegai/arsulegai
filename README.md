@@ -234,3 +234,12 @@
         </tr>
     </tbody>
 </table>
+
+### Connect with Arun:
+
+<a href="https://www.linkedin.com/in/arunsm93"><img src="static/assets/img/LinkedIn.png" alt="https://www.linkedin.com/in/arunsm93" width="30" /></a>
+<a href="https://chat.hyperledger.org/direct/arsulegai"><img src="static/assets/img/RocketChat.png" alt="https://chat.hyperledger.org/direct/arsulegai" width="30" /></a>
+<a href="https://stackoverflow.com/cv/arunsm"><img src="static/assets/img/StackOverflow.png" alt="https://stackoverflow.com/cv/arunsm" width="30" /></a>
+<a href="https://twitter.com/arsulegai"><img src="static/assets/img/Twitter.png" alt="https://twitter.com/arsulegai" width="30" /></a>
+<a href="https://www.youtube.com/watch?v=DNvH1L288to&list=PLcoI6pNvrJ0SbhyYDvDywB_oOYmH1a-N9"><img src="static/assets/img/YouTube.png" alt="https://www.youtube.com/watch?v=DNvH1L288to&list=PLcoI6pNvrJ0SbhyYDvDywB_oOYmH1a-N9" width="30" /></a>
+<a href="https://arsulegai.medium.com/"><img src="static/assets/img/Medium-new.png"  width="30" /></a>
