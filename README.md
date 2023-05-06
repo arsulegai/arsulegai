@@ -57,12 +57,12 @@
             </td>
             <td>
                 <div style="width: 200px; color: #565656;">
-                    <a href="https://www.youtube.com/watch?v=DNvH1L288to"><img src="https://img.youtube.com/vi/DNvH1L288to/hqdefault.jpg" /></a>
+                    <a href="https://youtu.be/GzwlZwp7g28"><img src="https://img.youtube.com/vi/DNvH1L288to/hqdefault.jpg" /></a>
                 </div>
             </td>
             <td>
                 <div style="width: 200px; color: #565656;">
-                    BlockHash Live 2020
+                    Hyperledger Global Forum 2023, Dublin, Ireland
                 </div>
             </td>
             <td>
