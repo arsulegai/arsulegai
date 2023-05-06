@@ -102,7 +102,7 @@
             </td>
             <td>
                 <div style="width: 200px; color: #565656;">
-                    Walmart, India
+                    Walmart, India & USA
                 </div>
             </td>
         </tr>
