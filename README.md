@@ -47,12 +47,12 @@
         <tr style="padding: 12px 15px; border-width: 20px; border-color: #dddddd; border-radius: 30px;">
             <td>
                 <div style="width: 200px; color: #565656;">
-                    <a href="https://tsc.hyperledger.org/tsc-members.html"><img src="static/assets/img/Hyperledger-Foundation.png" alt="Hyperledger Foundation" /></a>
+                    <a href="https://toc.hyperledger.org/member-info/toc-members.html"><img src="static/assets/img/Hyperledger-Foundation.png" alt="Hyperledger Foundation" /></a>
                 </div>
             </td>
             <td>
                 <div style="width: 200px; color: #565656;">
-                    Hyperledger Technical Steering Committee member
+                    Vice-Chair, Hyperledger Technical Oversight Committee
                 </div>
             </td>
             <td>
@@ -109,12 +109,12 @@
         <tr style="padding: 12px 15px; border-width: 20px; border-color: #dddddd; border-radius: 30px;">
             <td>
                 <div style="width: 200px; color: #565656;">
-                    <a href="https://in.linkedin.com/company/hyperledger-india-chapter"><img src="static/assets/img/Hyperledger-India-Chapter.png" alt="Hyperledger Foundation" /></a>
+                    <a href="https://toc.hyperledger.org/member-info/toc-members.html"><img src="static/assets/img/Hyperledger-Foundation.png" alt="Hyperledger Foundation" /></a>
                 </div>
             </td>
             <td>
                 <div style="width: 200px; color: #565656;">
-                    Co-lead, Hyperledger India Chapter
+                    Hyperledger Technical Steering Committee member
                 </div>
             </td>
             <td>
@@ -169,7 +169,16 @@
             </td>
         </tr>
         <tr>
-            <td colspan="2"></td>
+            <td>
+                <div style="width: 200px; color: #565656;">
+                    <a href="https://in.linkedin.com/company/hyperledger-india-chapter"><img src="static/assets/img/Hyperledger-India-Chapter.png" alt="Hyperledger Foundation" /></a>
+                </div>
+            </td>
+            <td>
+                <div style="width: 200px; color: #565656;">
+                    Co-lead, Hyperledger India Chapter
+                </div>
+            </td>
             <td>
                 <div style="width: 200px; color: #565656;">
                     <a href="https://www.youtube.com/watch?v=DQ_-iE60Hxg"><img src="https://img.youtube.com/vi/DQ_-iE60Hxg/hqdefault.jpg" /></a>
